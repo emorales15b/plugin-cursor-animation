@@ -1,6 +1,7 @@
 <?php
 wp_enqueue_script( 'functions_dashboard', plugin_dir_url( __FILE__ ) . 'js/functions.js', array ( 'jquery' ), 1.1, true);
 ?>
+<div>MyPlugin</div>
 <div>Erick Giovanny Morales Bustamante<div>
 <div>Efectos</div>
     <select id="efectos">
